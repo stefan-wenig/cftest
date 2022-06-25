@@ -1,8 +1,9 @@
 ---
-title: my page title
+title: page title
 ---
 
-## my h2 header
+## my page
 
-test [index](index)
+* [other.md](index.md)
+* [other](index)
 
